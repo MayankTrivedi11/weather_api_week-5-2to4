@@ -1,7 +1,7 @@
 {
   "name": "weather_api_week-5-2to4",
   "version": "1.0.0",
-  "description": "The Weather API",
+  "description": "New Weather API",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
